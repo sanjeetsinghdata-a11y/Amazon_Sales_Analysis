@@ -242,3 +242,5 @@ WHERE Sales_rk<=5
 
 
 
+
+SELECT * FROM #Amazon_Sales_Cleaned
